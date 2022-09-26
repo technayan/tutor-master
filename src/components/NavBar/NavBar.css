@@ -1,0 +1,51 @@
+.navbar {
+    background: #006ea9;
+}
+
+.logo {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.logo .slogan {
+    font-family: 'Blinker', sans-serif;
+    font-size: 12px;
+    display: block;
+    margin-top: -5px;
+}
+
+.nav-link {
+    font-weight: 500;
+    font-size: 16.5px;
+    color: #fff;
+    position: relative;
+}
+
+.nav-link::after {
+    position: absolute;
+    content: '';
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #fff;
+    transition: 0.3s ease-in-out;
+}
+
+.nav-link:hover::after {
+    width: 100%;
+}
+
+.action-btn {
+    border-radius: 3px;
+    background: #fff;
+    color: #006ea9;
+}
+
+.action-btn:hover {
+    color: #006ea9;
+}
+
+.action-btn:hover::after {
+    width: 0;
+}
