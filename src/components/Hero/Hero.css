@@ -1,0 +1,75 @@
+.hero-area {
+    height: 680px;
+    background: #006ea9;
+}
+
+.hero-text-area {
+    width: 70%;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.hero-text-area .hero-title {
+    font-size: 52px;
+    line-height: 78px;
+    font-weight: 600;
+}
+
+.hero-text-area .hero-slogan {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.atom {
+    top: -70px;
+    left: -90px;
+}
+
+.bulb {
+    top: -70px;
+    right: -90px;
+}
+
+.flask {
+    bottom: -150px;
+    left: 0px;
+}
+
+.molecules {
+    bottom: -150px;
+    right: 0px;
+}
+
+.hero-area .schuelke-logo {
+    position: absolute;
+}
+
+.hero-area .schuelke-logo.big {
+    top: -20px;
+    left: -40px;
+    width: 300px;
+}
+
+.hero-area .schuelke-logo.medium {
+    bottom: -110px;
+    right: -70px;
+    width: 250px;
+}
+
+.hero-area .schuelke-logo.small {
+    top: -150px;
+    right: 30px;
+    width: 100px;
+}
+
+.hero-area .dots-right {
+    position: absolute;
+    top: 170px;
+    right: -40px;
+}
+
+.hero-area .dots-left {
+    position: absolute;
+    bottom: -140px;
+    left: 0;
+}

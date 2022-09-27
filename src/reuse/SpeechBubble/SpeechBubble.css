@@ -1,0 +1,36 @@
+.speech-icon {
+    position: absolute;
+}
+
+.speech-bubble {
+    position: relative;
+    width: 68px;
+    height: 68px;
+}
+
+.speech-bubble .icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 30%);
+}
+
+.atom {
+    top: -70px;
+    left: -90px;
+}
+
+.bulb {
+    top: -70px;
+    right: -90px;
+}
+
+.flusk {
+    bottom: -150px;
+    left: 0px;
+}
+
+.molecules {
+    bottom: -150px;
+    right: 0px;
+}
