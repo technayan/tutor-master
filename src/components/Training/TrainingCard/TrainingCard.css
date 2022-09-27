@@ -1,0 +1,37 @@
+.training-card {
+    background: #007cc2;
+    padding: 84px 48px 67px 48px;
+    border-radius: 21px;
+    position: relative;
+}
+
+.card-icon {
+    position: absolute; 
+    width: 128px;
+    height: 128px;
+    top: -35px;
+    left: -24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background: #007cc2;
+}
+
+.crd-title {
+    font-weight: 500;
+    font-size: 29px;
+    line-height: 44px;
+    margin-bottom: 20px;
+}
+
+.card-desc {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 30px;
+}
+
+.training-card .primary-btn {
+    color: #007cc2;
+}

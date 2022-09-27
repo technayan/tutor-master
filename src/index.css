@@ -18,7 +18,21 @@ code {
   font-size: 14px;
   font-weight: 500;
   border: none;
-  background: #007CC2;
+  background: #007cc2;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.12);
   border-radius: 2px;
+}
+
+.section-title {
+  font-weight: 600;
+  color: #007cc2;
+  font-size: 35px;
+  line-height: 52px;
+  text-align: center;
+}
+
+.section-desc {
+  font-size: 16px;
+  line-height: 157%; 
+  text-align: center; 
 }

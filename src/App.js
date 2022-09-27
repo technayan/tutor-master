@@ -2,6 +2,7 @@ import './App.css';
 import Hero from './components/Hero/Hero';
 import NavBar from './components/NavBar/NavBar';
 import Story from './components/Story/Story';
+import Training from './components/Training/Training';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <NavBar />
       <Hero />
       <Story />
+      <Training />
     </div>
   );
 }
