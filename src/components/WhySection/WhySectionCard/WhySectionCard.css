@@ -1,0 +1,23 @@
+.why-section-card .card-icon-wrapper {
+    width: 50px !important;
+    height: 50px !important;
+    padding: 10px;
+    background: #f8f8f8;
+    border-radius: 5px;
+}
+
+.why-section-card .crd-title {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #383838;
+}
+
+.why-section-card .card-desc {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: justify;
+    color: rgba(56, 56, 56, 0.7);
+}
+
