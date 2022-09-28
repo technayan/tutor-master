@@ -9,7 +9,7 @@ const WhySection = () => {
                 <h2 className="section-title">Why Tutor Master</h2>
                 <p className="section-desc">Tutor Master will cover the following topics..</p>
             
-                <Row className='mt-5 gx-4'>
+                <Row className='mt-5 pt-3 gx-4'>
                     <div className="col-lg-4">
                         <WhySectionCard title={'The only source of learning pre-sales activities'} desc={"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiu consectetur adipiscing elit, sed do eiu"} icon={'source'} />
                     </div>

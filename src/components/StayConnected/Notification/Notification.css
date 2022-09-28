@@ -1,0 +1,18 @@
+.notification .user-img {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+
+.notification .notification-title {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000;
+}
+
+.notification .time {
+    font-size: 11px;
+    line-height: 16px;
+    color: #5a656b;
+}

@@ -1,0 +1,25 @@
+.userMessage .user-img {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+
+.userMessage .user-name {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    color: #000;
+}
+
+.userMessage .time {
+    font-size: 11px;
+    line-height: 16px;
+    color: #5a656b;
+}
+
+.userMessage .message {
+    font-size: 15px;
+    line-height: 22px;
+    text-align: justify;
+    color: rgba(56, 56, 56, 0.97);
+}

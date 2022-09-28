@@ -23,6 +23,12 @@ code {
   border-radius: 2px;
 }
 
+.primary-link {
+  color: #007cc2;
+  text-decoration: none;
+  display: inline-block;
+}
+
 .section-title {
   font-weight: 600;
   color: #007cc2;
