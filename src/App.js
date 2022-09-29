@@ -4,6 +4,7 @@ import NavBar from './components/NavBar/NavBar';
 import StayConnected from './components/StayConnected/StayConnected';
 import Story from './components/Story/Story';
 import Training from './components/Training/Training';
+import TrainingOverview from './components/TrainingOverview/TrainingOverview';
 import WhySection from './components/WhySection/WhySection';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Training />
       <WhySection />
       <StayConnected />
+      <TrainingOverview />
     </div>
   );
 }

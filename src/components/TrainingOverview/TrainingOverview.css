@@ -1,0 +1,20 @@
+.video {
+    width: 1127px;
+    height: 588px;
+    border: 6px solid #007cc2;
+}
+
+.rh5v-Overlay_inner {
+    background: #fff;
+    border-radius: 50%;
+}
+
+svg.rh5v-Overlay_icon {
+    fill: #007cc2;
+}
+
+.rh5v-DefaultPlayer_controls {
+    background: transparent;
+}
+
+

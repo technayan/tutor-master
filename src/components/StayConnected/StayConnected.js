@@ -12,7 +12,7 @@ const StayConnected = () => {
                 <h2 className="section-title">Stay Connected with us</h2>
                 <p className="section-desc">Tutor Master will cover the following topics..</p>
             
-                <Row>
+                <Row className='mt-5'>
                     <div className="col-lg-4 offset-lg-1">
                         <div className="connect-leftside">
                             <div className="leftside-header d-flex align-items-center justify-content-between pb-4">
@@ -24,7 +24,7 @@ const StayConnected = () => {
                             <Notification userImg={User} title={'Thomas added a new course on Cardiology'} time={'3mins'} />
                             
                             <div className="text-end">
-                                <a href="#" className='primary-link'>view all</a>
+                                <a href="#home" className='primary-link'>view all</a>
                             </div>
                         </div>
                     </div>
